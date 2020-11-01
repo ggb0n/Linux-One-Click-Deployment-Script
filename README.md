@@ -1,2 +1,2 @@
 # dotfile-manage
-I
+Committed to fast management of dotfiles.
