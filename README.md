@@ -12,3 +12,5 @@ eg:
 ```
 sudo ./pwnbox-manager.sh
 ```
+### others
+1、If you are configing your zsh, something should be done by hand. When all the work is done, you should change terminal's font to `Ubuntu Mono derivative Powerline Regular`, then you will have a pretty terminal.
